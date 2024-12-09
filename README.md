@@ -2,12 +2,7 @@
 
 ## Overview
 
-The **Data Cleanup Tool** is a Python script designed to clean up messy CSV files by:
-- Removing duplicate rows (optional)
-- Correcting formatting issues in a specified column using a regular expression
-- Saving the cleaned data to a new CSV file
-
-This tool is particularly useful for users who work with large, messy datasets and need a quick way to standardize and clean their data.
+The **Data Cleanup Tool** is a Python script that is particularly useful for users who work with large, messy datasets and need a quick way to standardize and clean their data.
 
 ## Features
 
